@@ -5,3 +5,17 @@ It also helps to choose your photo from gallery and place it at a nice place in 
 
 Icons
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+<!DOCTYPE html>
+<html>
+<body>
+<div>
+<img src="https://github.com/Mohit-Kumar23/Resume_Builder/blob/main/screen_screenshots/Splash_screen.jpg" width="200">
+<img src="https://github.com/Mohit-Kumar23/Resume_Builder/blob/main/screen_screenshots/Details_Page.png" width="200">
+</div>
+<div>  
+<img src="https://github.com/Mohit-Kumar23/Resume_Builder/blob/main/screen_screenshots/Final_Page.jpg" width="200">
+<img src="https://github.com/Mohit-Kumar23/Resume_Builder/blob/main/screen_screenshots/Generated_PDF.jpg" width="200">
+</div>
+</body>
+</html>
