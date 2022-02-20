@@ -15,7 +15,6 @@ Icons
 </div>
 <div>  
 <img src="https://github.com/Mohit-Kumar23/Resume_Builder/blob/main/screen_screenshots/Final_Page.jpg" width="200" height="350">
-<img src="https://github.com/Mohit-Kumar23/Resume_Builder/blob/main/screen_screenshots/Generated_PDF.jpg" width="200" height="200" height="350">
 </div>
 </body>
 </html>
