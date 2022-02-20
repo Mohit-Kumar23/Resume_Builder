@@ -6,6 +6,10 @@ It also helps to choose your photo from gallery and place it at a nice place in 
 Icons
 <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
+Output
+<div>Attached PDF:<a href="https://github.com/Mohit-Kumar23/Resume_Builder/blob/main/screen_screenshots/1645352257341.pdf" title="PDF">Freepik</a></div>
+
+
 <!DOCTYPE html>
 <html>
 <body>
