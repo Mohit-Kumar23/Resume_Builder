@@ -10,12 +10,12 @@ Icons
 <html>
 <body>
 <div>
-<img src="https://github.com/Mohit-Kumar23/Resume_Builder/blob/main/screen_screenshots/Splash_screen.jpg" width="200">
-<img src="https://github.com/Mohit-Kumar23/Resume_Builder/blob/main/screen_screenshots/Details_Page.png" width="200">
+<img src="https://github.com/Mohit-Kumar23/Resume_Builder/blob/main/screen_screenshots/Splash_screen.jpg" width="200" height="350">
+<img src="https://github.com/Mohit-Kumar23/Resume_Builder/blob/main/screen_screenshots/Details_Page.png" width="200" height="350">
 </div>
 <div>  
-<img src="https://github.com/Mohit-Kumar23/Resume_Builder/blob/main/screen_screenshots/Final_Page.jpg" width="200">
-<img src="https://github.com/Mohit-Kumar23/Resume_Builder/blob/main/screen_screenshots/Generated_PDF.jpg" width="200">
+<img src="https://github.com/Mohit-Kumar23/Resume_Builder/blob/main/screen_screenshots/Final_Page.jpg" width="200" height="350">
+<img src="https://github.com/Mohit-Kumar23/Resume_Builder/blob/main/screen_screenshots/Generated_PDF.jpg" width="200" height="200" height="350">
 </div>
 </body>
 </html>
