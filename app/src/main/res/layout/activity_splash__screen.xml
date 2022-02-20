@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_splash"
+    tools:context=".Splash_Screen">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/hguide_ss_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.4"/>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/vguide_ss_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.33"/>
+
+    <ImageView
+        android:id="@+id/iv_ss_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher_cv_app_round"
+        app:layout_constraintStart_toStartOf="@id/vguide_ss_1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/hguide_ss_1"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="@id/iv_ss_icon"
+        app:layout_constraintEnd_toEndOf="@id/iv_ss_icon"
+        app:layout_constraintTop_toBottomOf="@id/iv_ss_icon"
+        android:layout_marginTop="8dp"
+        android:text="Resume\nBuilder"
+        android:textAllCaps="true"
+        android:fontFamily="monospace"
+        android:textColor="@color/black"
+        android:textSize="28sp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

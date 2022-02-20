@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Resume Builder</string>
+    <string name="edu_info"><b>Bachelor of Engineering(B.E) Computer Science Engineering</b>
+        <br><b>College</b> : Institute of Tecnnology and Management Universe Vadodara</br>
+        <br><b>Batch</b> : 2018-2022</br>
+        <br><b>CGPA</b> : 9.2/10</br>
+    </string>
+
+    <string name="skill_info">
+        <b>Coding</b>
+        <br>C++</br>
+        <br>Java</br>
+        <br>Python</br>
+        <br>XML</br>
+        <br><b>Framework</b></br>
+        <br>Visual Studio</br>
+        <br>Android Studio</br>
+        <br>Firebase</br>
+        <br>Photoshop</br>
+    </string>
+
+    <string name="pastAch_info">
+        <b>Certificates</b>
+        <br>Some Govt. Certificates in C, FoxPro, Microsoft Office</br>
+        <br>Completed Professional Courses in Python, Android</br>
+    </string>
+    <string name="pdf_generatedVal">PDF GENERATED</string>
+
+    <array name="skill_array">
+        <item>Coding</item>
+        <item>Frameworks</item>
+        <item>Soft Skills</item>
+        <item>Leadership</item>
+    </array>
+
+    <array name="pastAch_array">
+        <item>Job</item>
+        <item>Internship</item>
+        <item>Awards</item>
+        <item>Certificates</item>
+    </array>
+</resources>
